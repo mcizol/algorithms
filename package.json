@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "description": "basic algorithms to deeply understand",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "algorithms",
+    "binar search"
+  ],
+  "repository": {
+    "url": "git@github.com:mcizol/algorithms.git",
+    "type": "git"
+  },
+  "author": "Mustafa Izol <>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "chai": "^3.5.0"
+  }
+}
