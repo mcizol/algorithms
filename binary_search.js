@@ -1,5 +1,5 @@
 function binarySearch(array, searchNumber){
-	result = undefined;
+  result = undefined;
 
   binaryElementsLength = array.length;
 
