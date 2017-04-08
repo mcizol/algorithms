@@ -5,7 +5,7 @@ function binarySearch(array, searchNumber){
 
   middleElement = Math.round(binaryElementsLength / 2);
 
-	function spliceLeft(array, searchNumber){
+   function spliceLeft(array, searchNumber){
       for(var left = 0; left < searchNumber; left++) {
         array.splice(array.indexOf(left), 1);
       }
