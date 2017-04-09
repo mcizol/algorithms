@@ -4,7 +4,7 @@ In this repository, I will share my algorithms works. Which will help to underst
 
 
 ## BinarySearch algorithm
-<img  width="250" src="http://faculty.amrita.ac.in/binu/Binary_Search/The%20Binary%20Search%20Algorithm_files/SuccessfulBinarySearch1.jpg"/>
+<img  width="350" src="http://faculty.amrita.ac.in/binu/Binary_Search/The%20Binary%20Search%20Algorithm_files/SuccessfulBinarySearch1.jpg"/>
 Image source: http://faculty.amrita.ac.in/binu/Binary_Search/The%20Binary%20Search%20Algorithm.htm
 
 ## LinearSearch algorithm
