@@ -1,6 +1,6 @@
 # algorithms
 
-In this repository, I will share my algorithms works. Which will help to understand, how they work.  
+In this repository, I will share my algorithms works. Which will help to understand the basics of algorithms.
 
 
 ## BinarySearch algorithm
